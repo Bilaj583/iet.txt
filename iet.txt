@@ -1,3 +1,5 @@
 we are doing assignment
 we are adding new line
 merging the line
+we are adding line three
+
